@@ -8,7 +8,6 @@ I am a software engineer who has been learning code for the past four years, I s
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [jeremyessien@gmail.com](mailto:jeremyessien@gmail.com)
-*   🚀  I'm currently working on [Hometown](http://gitlab.com/lazzy_dev/hometown-app)
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on Mobile Engineering roles<a href="https://www.github.com/jeremyessien" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/jeremyessien?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 

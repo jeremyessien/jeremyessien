@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeremiah Ekanem
 =======================================================================================================================================
 
-Mobile and Web developer
+Mobile Engineer
 ------------------------
 
-I am a software engineer who has been learning code for the past four years, I started with HTML and CSS, moved to Native (Kotlin) as an Android developer then settled on Flutter a cross platform framework for building mobile apps. I have been building apps for over 2 years now and I'm open to Mobile developer roles.
+I'm Jeremiah Ekanem, a software engineer with a passion for mobile app development. Over the past four years, I've been on an exciting coding journey, starting with HTML and CSS. As my skills evolved, I delved into Native (Kotlin) and became an Android developer. However, I found my true calling in Flutter, a powerful cross-platform framework for building mobile apps.
+
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [jeremyessien@gmail.com](mailto:jeremyessien@gmail.com)
